@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:4A90E2&height=250&section=header&text=Moran&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=路虽长，行则将至&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:4A90E2&height=250&section=header&text=Moran&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=路虽远，行则将至&descAlignY=55" />
